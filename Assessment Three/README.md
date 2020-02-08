@@ -11,6 +11,7 @@ Career Plans - Done
 Group Processes (first section) - Done
 Personal information - Done
 Group refelction individual 
+Roles - Done
 
 
 
@@ -28,7 +29,6 @@ group refelection
 
 
 Kyle
-Roles
 Group Processes 
 group refelection
 
