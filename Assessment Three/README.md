@@ -1,39 +1,35 @@
 # Assessment Three READ ME
 Group Roles
 
-NEED TO BE DONE BY SOMEONE (Group Refelection as a group)
-
-Doug
+Doug (40%)
 Scope and Limits - Done
 Skills and Jobs - Done
 Aims - Done
 Career Plans - Done
-Group Processes (first section) - Done
+Group Processes (both) - Done
 Personal information - Done
-Group refelction individual 
+Group refelction individual and Group - Done
 Roles - Done
 
 
 
 
-Sean
+Sean (18.75%)
 Tools and Tech - Done
 Overview - Done
 Group refelection individual 
 
 
-Matt
+Matt (6.25%)
 Plan and Progress
-Testing
-group refelection
 
 
-Kyle
-Group Processes 
-group refelection
+
+Kyle (6.25%)
+group refelection individual 
 
 
-John
+John (28.75%)
 Time Frame
 Risks
-group refelection
+group refelection individual 
